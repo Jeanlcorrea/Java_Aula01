@@ -8,7 +8,7 @@
 	  
 	  System.out.print("Digite um valor inteiro: ");
 	  
-	  if (entrada.hasNextInt() == false) {
+	   if (entrada.hasNextInt() == false) {
 		  
 	  System.out.println("ERRO! Digite um valor inteiro!");
 	  
