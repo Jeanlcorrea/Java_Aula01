@@ -16,7 +16,7 @@ public class Double {
 		
 		// Vamos criar uma variável para guardar o valor
 		
-		double valor = entrada.nextDouble();
+		int valor = entrada.nextInt();
 		
 		// Vamos mostrar o dobro desse número
 		
