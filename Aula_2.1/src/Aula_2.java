@@ -14,63 +14,7 @@ public class Aula_2 {
 		w= y && !x || z;
 		
 		System.out.println(w);
-		
-       x=true;
-		
-		y= !x; // y=true
-		
-		z= !y && !x;
-		
-		w= y && !x || z;
-		
-		System.out.println(w);
-		
-		  x=false;
 			
-			y= !x; // y=true
-			
-			z= !y && !x;
-			
-			w= y && !x || z;
-			
-			System.out.println(w);
-			
-			  x=true;
-				
-				y= !x; // y=true
-				
-				z= !y && !x;
-				
-				w= y && !x || z;
-				
-				System.out.println(w);
-				  x=false;
-					
-					y= !x; // y=true
-					
-					z= !y && !x;
-					
-					w= y && !x || z;
-					
-					System.out.println(w);
-					  x=true;
-						
-						y= !x; // y=true
-						
-						z= !y && !x;
-						
-						w= y && !x || z;
-						
-						System.out.println(w);
-		                                x=false;
-						
-						y= !x; // y=true
-						
-						z= !y && !x;
-						
-						w= y && !x || z;
-						
-						System.out.println(w);
 		
 	}
 }
